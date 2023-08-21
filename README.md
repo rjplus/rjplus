@@ -1,4 +1,4 @@
-Hi 👋 My name is Robert Jackson
+Hi - My name is Robert Jackson
 ===============================
 
 Systems Developer
