@@ -8,7 +8,7 @@ Providing economic FileMaker solutions, support and training to help your organi
 
 * 🌍  I'm based in Dundee
 * ✉️  You can contact me at [post2rj@gmail.com](mailto:post2rj@gmail.com)
-* 🧠  I'm learning Figma, Canva and Notion
+* 🧠  I'm learning Python, Figma, Canva and Notion
 
 <a href="https://www.github.com/rjplus" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rjplus?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/robertjackson" target="_blank" rel="noreferrer"><img
